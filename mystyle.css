@@ -1,0 +1,28 @@
+h3 {
+    color: green;
+}
+
+p {
+    color: black;
+}
+
+#here {
+    color: gold;
+}
+
+p.hello {
+    color: purple;
+    font-family: "Tilt Prism"
+}
+
+p.center{
+    text-align: center;
+}
+
+p#one{
+    font-size: 50px;
+}
+
+form > p {
+    color: violet;
+}
